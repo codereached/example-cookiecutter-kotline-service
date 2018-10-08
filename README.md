@@ -1,1 +1,1 @@
-This is an example created by This is a [cookiecutter-kotlin-service](https://github.com/codereached/cookiecutter-kotlin-service 
+This is an example created by This is a [cookiecutter-kotlin-service](https://github.com/codereached/cookiecutter-kotlin-service) 
